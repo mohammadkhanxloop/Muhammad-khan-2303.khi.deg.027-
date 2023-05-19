@@ -1,6 +1,6 @@
 # Descripition
 
-## Assignment#5.3
+## Assignment5.3
 
 Read data from source to DataFrame in local Spark setup and display DataFrame schema.
 
